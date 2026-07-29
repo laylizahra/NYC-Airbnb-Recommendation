@@ -1,5 +1,4 @@
-# NYC-Airbnb-Recommendation
-New York City Airbnb Recommendation 
+# NYC Airbnb Listing EDA Project & Recommendation
 
 ## Project Overview 
 This project inform an Exploratory Data Analysis (EDA) on Airbnb in New York City to understand the key factors that influence listing prices. The analysis aims to build actionable insights for both prospective tenants looking for suitable home and potential investors evaluating opportunities in the short-term market. 
